@@ -1,2 +1,2 @@
 # SpringBoot_Angular
-Spring-Boot-Testing
+Spring-Boot
