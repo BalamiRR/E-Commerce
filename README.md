@@ -16,14 +16,14 @@ Spring Boot & Angular
 
 ## Product Detail
 
-![alt text](./ProductDetail.png)
+![alt text](./ProductDetailpng.png)
 
 
 ![alt text](./Product_Detail.png)
 
 
 
-Note: To run app for Angular : ng server --open
+### Note: To run app for Angular : ng server --open
 
 
 
