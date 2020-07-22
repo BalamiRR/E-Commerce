@@ -1,4 +1,4 @@
-# SpringBoot_Angular
+# Spring Boot and Angular
 Spring Boot & Angular
 
 ## Interface of E-Commerce
@@ -8,6 +8,14 @@ Spring Boot & Angular
  
   
 ## Search for Product
-  
+
+  Search for products which are includes (Books, Coffee Mugs, Mouse Pads, Luggage Tags)
   ![alt text](./SearchProduct.png)
   
+
+
+
+
+Note: 
+
+To run app for Angular : ng server --open
