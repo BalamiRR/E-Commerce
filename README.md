@@ -21,7 +21,7 @@ Spring Boot & Angular
 ![alt text](./ProductDetailpng.png)
 
 
-  ### Mugg
+  ### Mugs
 
 ![alt text](./Product_Detail.png)
 
