@@ -1,5 +1,5 @@
 # Spring Boot and Angular 
-Spring Boot & Angular 
+Spring Boot & Angular
 
 ## Interface of E-Commerce 
 
