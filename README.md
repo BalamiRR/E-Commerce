@@ -9,7 +9,7 @@ Spring Boot & Angular
   
 ## Search for Product
 
-  Search for products which are includes (Books, Coffee Mugs, Mouse Pads, Luggage Tagss)
+  Search for products which are includes (Books, Coffee Mugs, Mouse Pads, Luggage Tagss) 
   
   ![alt text](./SearchProduct.png)
   
